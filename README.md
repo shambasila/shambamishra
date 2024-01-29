@@ -1,0 +1,16 @@
+
+
+
+
+                                                                  Registration Form Worksheet 
+
+
+
+
+This is a simple and visually appealing webpage with a background image, centered content, and a clean design. The website is structured using HTML for content, CSS for styling, and JavaScript for dynamic behavior.
+Firstly choosen a form container to display form elements with the help of HTML and CSS.
+Then for password validation used JavaScript code to validate whether the password and confirm password fields match in the form and to check the entered password against assigned specific criteria.
+also used JavaScript for the username, Email Address validation in the form and display error messages on the page in case specific criteria not met. 
+Used HTML, CSS for footer links in footer section.
+
+ 
